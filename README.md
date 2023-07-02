@@ -5,7 +5,7 @@ Jext is a command-line tool that allows you to extract values from JSON files ba
 ### Installation
 
 #### Install the binary:
-- Download the latest [release]() for your machine
+- Download the latest [release](https://github.com/Pingu1337/jext/releases/latest) for your machine
 - Unzip the archive and move the binary file `jext` to the directory where you store binary files.
 > The directory where binary files are stored depend on the plattform you are running, some examples are `/.bin` or `~/.local/bin`
 
